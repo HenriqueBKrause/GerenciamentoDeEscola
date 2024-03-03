@@ -20,12 +20,6 @@ Esta aplicação gerencia informações escolares, incluindo alunos, professores
 1. Crie um banco de dados MySQL
 2. Edite o arquivo `app.js` para ajustar as configurações de conexão com o banco de dados
 
-## Execução
-
-Inicie o servidor com o comando: `node app.js`
-
-Acesse a aplicação em: [http://localhost:3000](http://localhost:3000)
-
 ## Rotas Disponíveis
 
 ### Obter Alunos

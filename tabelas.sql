@@ -1,3 +1,7 @@
+CREATE DATABASE Escola;
+
+USE Escola;
+
 -- Tabela Escola
 CREATE TABLE Escola (
     ID_escola INT PRIMARY KEY,
